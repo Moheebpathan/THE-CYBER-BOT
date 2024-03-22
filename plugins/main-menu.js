@@ -548,9 +548,8 @@ import {
     ⛥ *Uptime:* ${muptime}
     ╰━━━━━━━━━━━━━···▸▸
    
-    乂───『 *INFO*』───乂 
-  │*Reply with the number*
-  │ to get respected Menu*
+    乂───『 *Group*』───乂 
+  │https://chat.whatsapp.com/FTMayeSpoOqBoiUxUhsdSx
   ╰━━━━━━━━━━━━━···▸▸
   
   ╭━⊱Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴍᴅ ᴍᴇɴᴜ⊱━╮
